@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# DevTools
+devtools/
+.claude/
+
 # Distribution / packaging
 .Python
 build/
